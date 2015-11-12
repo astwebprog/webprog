@@ -1,7 +1,14 @@
-Test Git File
+/*
+	Git Simple Guideline
+*/
+
+
+git clone "https://github.com/astwebprog/webprog.git"
 
 git add .
 
 git commit -m "Message of updating"
 
 git push
+
+

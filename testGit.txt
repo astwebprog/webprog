@@ -1,0 +1,7 @@
+Test Git File
+
+git add .
+
+git commit -m "Message of updating"
+
+git push
